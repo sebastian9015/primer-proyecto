@@ -6,8 +6,6 @@ class Saludo:
     def mostrarmensaje (self):
         print(self.mensaje)
 
-saludo =Saludo("hola mundo")
-saludo.mostrarmensaje()
 
 
 
